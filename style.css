@@ -34,6 +34,7 @@ img.logo {
     background-color: #2a2a2c;
     top: 55%;
     bottom: 0;
+	z-index: 29;
 }
 
 .yo>h5{
